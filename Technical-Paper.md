@@ -147,3 +147,6 @@ There are four functions of the Physical layer:
 
 ---
 # Technical-Paper
+# OSI
+# OSI-layers
+# OSI-layers
